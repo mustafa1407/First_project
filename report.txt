@@ -1,0 +1,43 @@
+Info: Processing symbol 'C1:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'J1:Connector_USB:USB_Micro-B_Wuerth_629105150521'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J5:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J6:Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Vertical'.
+Info: Processing symbol 'J7:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J9:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J10:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J11:Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical'.
+Info: Processing symbol 'J12:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical'.
+Info: Processing symbol 'J13:Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_E-Switch_EG2219_DPDT_Angled'.
+Info: Processing symbol 'U1:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'U2:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm'.
+Warning: No net found for component SW1 pad 5 (no pin 5 in symbol).
+Warning: No net found for component SW1 pad 6 (no pin 6 in symbol).
+Warning: No net found for component SW1 pad 4 (no pin 4 in symbol).
+
+
+Info: Total warnings: 3, errors: 0.
